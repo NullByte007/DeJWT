@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/xDhWy9g/DeJWT.png" width="300px" height="300px">
+<img src="https://i.ibb.co/xDhWy9g/DeJWT.png" width="700px" height="300px">
 </p>
 
 # DeJWT

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/xDhWy9g/DeJWT.png" width="700px" height="250px">
+<img src="https://i.postimg.cc/25bJnpHz/De-JWT-banner-git.png" width="700px" height="250px">
 </p>
 
 # DeJWT
